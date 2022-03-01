@@ -1,364 +1,365 @@
-# Слова, часто используемые в CSS-классах
 
-## Изображения
+# Words commonly used in CSS classes
 
-`image`, `img`, `picture`, `pic` — картинка
+## Images
 
-`icon` — иконка
+`image`, `img`, `picture`, `pic` - picture
 
-`logo` — логотип
+`icon` — icon
 
-`userpic`, `avatar` — юзерпик, маленькая картинка пользователя
+`logo` — logo
 
-`thumbnail`, `thumb` — миниатюра, уменьшенное изображение
+`userpic`, `avatar` — userpic, a small picture of the user
 
-## Текст
+`thumbnail`, `thumb` — thumbnail, thumbnail
 
-`title`, `subject`, `heading`, `headline`, `caption` — заголовок
+## Text
 
-`subtitle` — подзаголовок
+`title`, `subject`, `heading`, `headline`, `caption` — title
 
-`slogan` — слоган
+`subtitle` — subtitle
 
-`lead`, `tagline` — лид-абзац в тексте
+`slogan` — slogan
 
-`text` — текстовый контент
+`lead`, `tagline` — lead paragraph in the text
 
-`desc` — описание, вариант текстового контента
+`text` - text content
 
-`excerpt` — отрывок текста, обычно используется перед ссылкой «Читать далее...»
+`desc` — description, text content option
 
-`quote`, `blockquote` — цитата
+`excerpt` - excerpt of text, usually used before the "Read more..." link
 
-`snippet` — пример кода
+`quote`, `blockquote` — quote
 
-`link` — ссылка
+`snippet` - sample code
 
-`copyright`, `copy` — копирайт
+`link` — link
 
-## Списки
+`copyright`, `copy` - copyright
 
-`list`, `items` — список
+## Lists
 
-`item` — элемент списка
+`list`, `items` - list
 
-## Блоки
+`item` - list item
 
-`page` — корневой элемент страницы
+## Blocks
 
-`header` — шапка (страницы или элемента)
+`page` is the root element of the page
 
-`footer` — подвал (страницы или элемента)
+`header` - header (page or element)
 
-`section` — раздел контента (один из нескольких)
+`footer` - footer (of a page or element)
 
-`main`, `body` — основная часть (страницы или элемента)
+`section` - content section (one of several)
 
-`content` — содержимое элемента
+`main`, `body` - the main part (of the page or element)
 
-`sidebar` — боковая колонка (страницы или элемента)
+`content` - element content
 
-`aside` — блок с дополнительной информацией
+`sidebar` - sidebar (of a page or element)
 
-`widget` — виджет, например, в боковой колонке
+`aside` - block with additional information
 
-## Раскладка
+`widget` - a widget, for example, in a sidebar
 
-`wrapper`, `wrap` — обёртка, обычно внешняя
+## Layout
 
-`inner` — внутренняя обёртка
+`wrapper`, `wrap` - wrapper, usually outer
 
-`container`, `holder`, `box` — контейнер
+`inner` - inner wrapper
 
-`grid` — раскладка (страницы или элемента) в виде сетки (обычно содержит в себе `row` и `col`)
+`container`, `holder`, `box` — container
 
-`row` — контейнер в виде строки
+`grid` - layout (page or element) in the form of a grid (usually contains `row` and `col`)
 
-`col`, `column` — контейнер в виде столбца
+`row` - string container
 
-## Элементы управления
+`col`, `column` - column container
 
-`button`, `btn` —  кнопка, например, для отправки формы
+## Controls
 
-`control` — элемент управления, например, стрелки «Вперёд/назад» в фотогалерее, кнопки управления слайдером
+`button`, `btn` — button, e.g. for submitting a form
 
-`dropdown` — выпадающий список
+`control` - a control element, for example, forward / backward arrows in a photo gallery, slider control buttons
 
-## Медиавыражения
+`dropdown` - dropdown list
 
-`phone`, `mobile` — мобильные устройства
+## media expressions
 
-`phablet` — телефоны с большим экраном (6-7")
+`phone`, `mobile` — mobile devices
 
-`tablet` — планшеты
+`phablet` - large screen phones (6-7")
 
-`notebook`, `laptop` — ноутбуки
+`table` — tablets
 
-`desktop` — настольные компьютеры
+`notebook`, `laptop` — laptops
 
-## Размеры
+`desktop` - desktop computers
 
-`tiny` — маленький, крохотный
+## Dimensions
 
-`small` — небольшой
+`tiny` - small, tiny
 
-`medium` — средний
+`small`
 
-`big`, `large` — большой
+`medium`
 
-`huge` — огромный
+`big`, `large`
 
-`narrow` — узкий
+`huge` - huge
 
-`wide` — широкий
+`narrow` - narrow
 
-## Разное
+`wide` - wide
 
-`search` — поиск
+## Miscellaneous
 
-`socials` — блок иконок соцсетей
+`search` - search
 
-`advertisement`, `adv`, `commercial`, `promo` — рекламный блок (режутся Адблоком, не рекомендуется использовать такие классы для блоков с внутренней рекламой)
+`socials` — block of social media icons
 
-`features`, `benefits` — список основных особенностей товара, услуги
+`advertisement`, `adv`, `commercial`, `promo` - ad block (cut by Adblock, it is not recommended to use such classes for blocks with internal ads)
 
-`slider`, `carousel` — слайдер, интерактивный элемент с прокруткой содержимого
+`features`, `benefits` - a list of the main features of the product, service
 
-`pagination` — постраничная навигация
+`slider`, `carousel` — slider, interactive element with content scrolling
 
-`user`, `author` — пользователь, автор записи или комментария
+`pagination` - pagination
 
-`meta` — блок с дополнительной информацией, например, блок тегов и даты в посте
+`user`, `author` — user, post or comment author
 
-`cart`, `basket` — корзина
+`meta` - a block with additional information, for example, a block of tags and dates in a post
 
-`breadcrumbs` — навигационная цепочка, «хлебные крошки»
+`cart`, `basket` ​​- basket
 
-`more`, `all` — ссылка на полную информацию
+`breadcrumbs` - navigation chain, "breadcrumbs"
 
-`modal` — модальное (диалоговое) окно
+`more`, `all` — link to complete information
 
-`popup` — всплывающее окно
+`modal` - modal (dialog) window
 
-`tooltip`, `tip` — всплывающее подсказки
+`popup` — popup window
 
-`preview` — анонс, отрывок, например новости или поста, может состоять из заголовка, описания и картинки. Предполагается ссылка на полную версию
+`tooltip`, `tip` — tooltips
 
-`overlay` — перекрывающий слой, например, для затемнения изображений или создания модальных окон
+`preview` - an announcement, an excerpt, such as news or a post, may consist of a title, description and picture. Link to full version expected
 
-## Состояния
+`overlay` - an overlay layer, for example, to darken images or create modal windows
 
-`active`, `current` — активный элемент, например, текущий пункт меню
+## States
 
-`visible` — видимый элемент
+`active`, `current` - active element, for example, the current menu item
 
-`hidden` — скрытый элемент
+`visible` — visible element
 
-`error` — статус ошибки
+`hidden` - hidden element
 
-`warning` — статус предупреждения
+`error` — error status
 
-`success` — статус успешного выполнения задачи
+`warning` — warning status
 
-`pending` — состояние ожидания, например, перед сменой статуса на error или success
+`success` — status of successful completion of the task
 
-## Примеры использования
+`pending` - waiting state, for example, before changing the status to error or success
 
-### Простой список
+## Examples of using
+
+### Simple list
 
 ```html
-<ul class="list">
-  <li class="item">Первое</li>
-  <li class="item">Второе</li>
-  <li class="item">Третье</li>
-</ul>
+<ul class =" list " > 
+  <li class =" item " > First </ li> 
+  <li class =" item " > Second </ li> 
+  <li class =" item " > Third </ li> 
+</ ul >
 ```
 
-### Картинка пользователя (юзерпик)
+### User picture (userpic)
 
 ```html
 <div class="user">
   <img class="user__img" src="userpic.png" alt="Дормидонт Петрович">
   <a class="user__link" href="#">Дормидонт Петрович</a>
-</div>
+</ div>
 ```
 
-### Галерея
+### Gallery
 
 ```html
-<div class="gallery">
-  <ul class="gallery__list">
-    <li class="gallery__item">
-      <img class="gallery__img" src="flowers.jpg" alt="Цветём как в последний раз">
-    </li>
-    <li class="gallery__item">
-      <img class="gallery__img" src="trees.jpg" alt="Парк «Три сосны»">
-    </li>
-  </ul>
-</div>
+<div  class =" gallery " > 
+  <ul  class =" gallery__list " > 
+    <li  class =" gallery__item " > 
+      <img  class =" gallery__img " src =" flowers.jpg " alt =" Blooming like the last time " > 
+    </ li > 
+    <li  class =" gallery_item " > 
+      <img  class ="gallery__img " src =" trees.jpg " alt =" Three Pines Park " > < 
+    / li > 
+  </ ul > 
+</ div >
 ```
 
-### Навигация
+### Navigation
 
 ```html
-<nav class="nav">
-  <a class="nav__link nav__link--active">Главная</a>
-  <a class="nav__link" href="#">Второстепенная</a>
-  <a class="nav__link" href="#">Третья с конца</a>
-  <a class="nav__link" href="#">Предпоследняя</a>
-  <a class="nav__link" href="#">Совсем конец</a>
-</nav>
+<nav  class =" nav " > 
+  <a  class =" nav__link nav__link--active " > Main </ a > 
+  <a  class =" nav__link " href =" # " > Secondary </ a > 
+  <a  class =" nav__link " href =" # " > Third from the end </ a > 
+  <class  = "nav__link " href =" # " > Penultimate </ a > 
+  <a  class =" nav__link " href =" # " > Quite the end </ a > 
+</ nav >
 ```
 
 ```html
-<nav class="nav">
-  <ul class="nav__list">
-    <li class="nav__item nav__item--current">
-      <a class="nav__link">Главная</a>
-    </li>
-    <li class="nav__item">
-      <a class="nav__link" href="#">Статьи</a>
-    </li>
-    <li class="nav__item">
-      <a class="nav__link" href="#">Фотогалерея</a>
-    </li>
-    <li class="nav__item">
-      <a class="nav__link" href="#">Контакты</a>
-    </li>
-  </ul>
-</nav>
+<nav  class =" nav " > 
+  <ul  class =" nav__list " > 
+    <li  class =" nav__item nav__item--current " > 
+      <a  class =" nav__link " > Home </ a > 
+    </ li > 
+    <li  class =" nav__item " > 
+      <a  class =" nav__link " href ="# " >Articles </ a > 
+    </ li > 
+    <li  class =" nav__item " > 
+      <a  class =" nav__link " href =" # " > Photo Gallery </ a > 
+    </ li > 
+    <li  class =" nav__item " > 
+      <a  class =" nav_link " href =" # " >Contacts </a> _ _
+    </ li > 
+  </ ul > 
+</ nav >
 ```
 
-### Виджет в боковой колонке
+### Widget in sidebar
 
 ```html
-<div class="widget">
-  <h4 class="widget__title">Выращиваем желе</h4>
+<div  class =" widget " > 
+  <h4  class =" widget_title " > Grow Jelly </ h4 >
 
-  <div class="widget__content">
-    <p>Чтобы вырастить общительное дружелюбное желе,
-    нам потребуется рулон поролона, два килограмма сахара,
-    три яйца и пол чайной чашки ацетона.</p>
+  <div  class =" widget__content " > 
+    <p > To grow social friendly jelly,
+    we need a roll of foam rubber, two kilograms of sugar,
+    three eggs and half a tea cup of acetone. </ p >
 
-    <a class="widget__link" href="#">Не читать дальше...</a>
-  </div>
-</div>
+    <a  class =" widget__link " href =" # " > Read no further... </ a > 
+  </ div > 
+</ div >
 ```
 
-### Блок новостей
+### News block
 
 ```html
-<div class="news">
-    <h3 class="news__title">Вчерашние новости</h3>
+<div  class =" news " > 
+    <h3  class =" news__title " > Yesterday's news </ h3 >
 
-    <ul class="news__list">
-        <!-- к классу элемента добавляем класс блока,
-             чтобы создать новое пространство имён -->
-        <li class="news__item item-news">
-            <h4 class="item-news__title">Соревнования среди воблы по конькобежному спорту</h4>
-            <div class="item-news__text">
-              <p>Победила команда килек из Петрозаводска</p>
+    <ul  class =" news__list " > 
+        <!-- add a block class to the item class 
+             to create a new namespace --> 
+        <li  class =" news__item item-news " > 
+            <h4  class =" item -news__title " > speed skating wobbles </ h4 > 
+            <div  class =" item-news__text " > 
+              <p > Kilek team from Petrozavodsk won </ p >
 
-              <a href="#" class="item-news__link">Читать дальше</a>
-            </div>
-        </li>
+              <a  href =" # " class =" item-news__link " > Read more </ a > 
+            </ div > 
+        </ li >
 
-        <li class="news__item item-news">
-            <h4 class="item-news__title">Учёные уточнили роль напильника в уходе за ногтями</h4>
-            <div class="item-news__text">
-              <p>Британские учёные высоко оценили вклад
-                напильника в отращивание полутораметровых ногтей.</p>
+        <li  class =" news__item item-news " > 
+            <h4  class =" item-news__title " > Scientists have clarified the role of a file in nail care </ h4 > 
+            <div  class =" item-news__text " > 
+              <p > British scientists highly appreciated contribution
+                file in growing one and a half meter nails. </ p >
 
-              <a href="#" class="item-news__link">Не читать дальше</a>
-            </div>
-        </li>
-    </ul>
-</div>
+              <a  href =" # " class =" item-news__link " > Do not read further </ a > 
+            </ div > 
+        </ li > 
+    </ ul > 
+</ div >
 ```
 
-### Статья или пост в блоге (простой вариант)
+### Article or blog post (simple version)
 
 ```html
-<article class="article">
-  <h3 class="article__title">Нащупываем чакры у пучка петрушки</h3>
-  <time class="article__datetime">32 мая, 10:87</time>
+<article  class =" article " > 
+  <h3  class =" article__title " > Feeling for the chakras of a bunch of parsley </ h3 > 
+  <time  class = " article__datetime " > May 32, 10:87 </ time >
 
-  <div class="article__author author-article">
-    <img class="author-article__img" src="userpic.png" alt="Клешня Андреевна">
-    <a class="author-article__link" href="#">Клешня Андреевна Долгорукая</a>
-    <div class="author-article__desc">Наш эксперт по чакрам</div>
-  </div>
+  <div  class =" article__author author-article " > 
+    <img  class =" author-article__img " src =" userpic.png " alt =" Kleshnya Andreevna " > 
+    <a  class =" author-article__link " href =" # " > Kleshnya Andreevna Dolgorukaya </ a > 
+    <div  class =" author-article__desc " >Our Chakra Expert </ div> 
+  </ div >
 
-  <div class="article__content">
-    Сходите на рынок и купите у старушек пучок петрушки грамм на 100.
-    Как следует переберите, очистите от жуков и гусениц. Жуков отдайте поиграться
-    коту, гусениц поселите в горшок с кактусами, пусть одна будет Джоном,
-    вторая Билли, а у вас в горшке теперь будет Дикий Запад. Вернитесь
-    к пучку петрушки. Ласково взгляните на него и как следует почешите
-    за ухом, можно себе или коту. Перевяжите атласной ленточкой,
-    непременно завяжите бант. Поздравляем! Теперь у вас есть полностью
-    одомашненный пучок петрушки, который будет весело бегать за вами
-    по пятам и проращивать свои семена в ваших тапках.
-  </div>
-</article>
+  <div  class =" article__content " >
+    Go to the market and buy a 100 gram bunch of parsley from the old ladies.
+    Sort through, clean from beetles and caterpillars. Let the bugs play
+    put the cat, caterpillars in a pot of cacti, let one be John,
+    the second Billy, and you will now have the Wild West in the pot. Come back
+    to a bunch of parsley. Look at him affectionately and scratch him properly
+    behind the ear, you can yourself or a cat. Tie with satin ribbon
+    be sure to tie a bow. Congratulations! Now you have completely
+    a domesticated bunch of parsley that will have fun chasing you
+    on your heels and germinate your seeds in your slippers.
+  </ div > 
+</ article >
 ```
 
-### Статья или пост в блоге (сложный вариант)
+### Article or blog post (hard)
 
 ```html
-<article class="entry">
-  <header class="entry__header">
-    <h3 class="entry__title title-entry">
-      <a class="title-entry__link" href="#">Резиновые уточки как способ самопознания</a>
-    </h3>
+<article  class =" entry " > 
+  <header  class =" entry_header " > 
+    <h3  class =" entry_title title-entry " > 
+      <a  class =" title-entry__link " href =" # " > Rubber ducks as a way of self-discovery </ a > 
+    </ h3 >
 
-    <time class="entry__datetime">32 мая, 10:87</time>
-  </header>
+    <time  class =" entry_datetime " > May 32, 10:87 </ time > 
+  </ header >
 
-  <div class="entry__author author-entry">
-    <img class="author-entry__img" src="userpic.png" alt="Василиса Сергеевич">
+  <div  class =" entry_author author-entry " > 
+    <img  class =" author-entry__img " src =" userpic.png " alt =" Vasilisa Sergeyevich " >
 
-    <a class="author-entry__link" href="#">Василиса Сергеевич</a>
-  </div>
+    <a  class =" author-entry__link " href =" # " > Vasilisa Sergeevich </ a > 
+  </ div >
 
-  <div class="entry__content">
-    Достаньте с чердака коробку с полусотней резиновых уточек,
-    оставшихся после празднования нового года. Из уточек
-    и горящих свечей выложите пентаграмму на полу комнаты.
-    Сядьте посередине в позу лотоса, в каждую руку возьмите
-    по немецко-бразильскому словарю, прокашляйтесь, наберите
-    полную грудь воздуха и громко и уверенно,
-    с полной самоотдачей скажите "Кря!"
-  </div>
+  <div  class =" entry__content " >
+    Get a box of fifty rubber ducks from the attic,
+    remaining after the celebration of the new year. From ducks
+    and burning candles lay out a pentagram on the floor of the room.
+    Sit in the middle in the lotus position, in each hand take
+    according to the German-Brazilian dictionary, cough, dial
+    full chest of air and loud and confident,
+    with full dedication, say "Quack!"
+  </ div >
 
-  <div class="entry__tags tags-entry">
-    <h4 class="tags-entry__title">Метки</h4>
+  <div  class =" entry_tags tags-entry " > 
+    <h4  class =" tags-entry__title " > Tags </ h4 >
 
-    <ul class="tags-entry__list">
-      <li class="tags-entry__item">
-        <a class="tags-entry__link" href="#">хоровод своими руками</a>
-      </li>
-      <li class="tags-entry__item">
-        <a class="tags-entry__link" href="#">фарфоровые тапки</a>
-      </li>
-      <li class="tags-entry__item">
-        <a class="tags-entry__link" href="#">гуталин в кулинарии</a>
-      </li>
-    </ul>
-  </div>
+    <ul  class =" tags-entry__list " > 
+      <li  class =" tags-entry__item " > 
+        <a  class =" tags-entry__link " href =" # " > diy dance </ a > 
+      </ li > 
+      <li  class = " tags-entry__item " > 
+        <a  class =" tags-entry__link " href ="# " >porcelain slippers </ a > 
+      </ li > 
+      <li  class =" tags-entry__item " > 
+        <a  class =" tags-entry__link " href =" # " > shoe polish in cooking </ a > 
+      </ li > 
+    </ ul > 
+  </ div >
 
-  <div class="entry__actions actions-entry">
-    <ul class="actions-entry__list">
-      <li class="actions-entry__item actions-entry__item--read">
-        <a class="actions-entry__link" href="#">238 ответов</a>
-      </li>
-      <li class="actions-entry__item actions-entry__item--write">
-        <a class="actions-entry__link" href="#">Написать в спортлото</a>
-      </li>
-      <li class="actions-entry__item actions-entry__item--share">
-        <a class="actions-entry__link" href="#">Поделиться</a>
-      </li>
-    </ul>
-  </div>
-</article>
+  <div  class =" entry__actions actions-entry " > 
+    <ul  class =" actions-entry__list " > 
+      <li  class =" actions-entry__item actions-entry__item--read " > 
+        <a  class =" actions-entry__link " href =" # " > 238 responses </ a > 
+      </ li > 
+      <li  class ="actions-entry__item actions-entry__item--write " > 
+        <a  class =" actions-entry__link " href =" # " > Write to sportsloto </ a > 
+      </ li > 
+      <li  class =" actions-entry__item actions-entry__item--share " > 
+        <a  class =" actions-entry__link " href =" # " > Share </a> </ li > 
+      </ ul > </ div ></ article
+    
+  
+>
 ```
